@@ -4,6 +4,7 @@
 
 ### Features
 1. User can add product
-2. User can edite product
-3. user product spend list
+2. Edite product
+3. Delate Product
+4. user product spend list
 
