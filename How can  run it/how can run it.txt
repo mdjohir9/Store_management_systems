@@ -1,0 +1,18 @@
+->Open your php my admin panel
+
+->Import store_db.sql file
+
+->Got to store project folder 
+
+->open connection.php
+
+->change host name; 
+
+->if you can set user name or password on your mysql database ,so set your password='you password' and username ='your user name';
+
+-----Thanks ------
+
+    $hostname='localhost:4306';
+    $username='root';
+    $password='';
+    $dbname='store_db';
