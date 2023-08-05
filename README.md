@@ -15,7 +15,8 @@
 5. Add Product
 6. Edit product
 7. Delate Product
-8. Auto calculation spend Product
-9. List Sell product
-10. List spand Product
+8. Auto calculation total Add product
+9. Auto calculation spend Product
+10. List Sell product
+11. List spand Product
 
