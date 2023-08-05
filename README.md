@@ -4,11 +4,18 @@
 - HTML
 - CSS
 - Bootstrap
-- PHP 
+- PHP
+- OOP
 
 ### Features
-1. User can add product
-2. Edite product
-3. Delate Product
-4. user product spend list
+1. Beautiful Dashbord
+2. User Login Systems
+3. Admin can add user 
+4. User can add product with categories
+5. Add Product
+6. Edit product
+7. Delate Product
+8. Auto calculation spend Product
+9. List Sell product
+10. List spand Product
 
