@@ -1,6 +1,10 @@
 # Store Management Systems using php
 
 ### Used Tech
+-HTML
+-CSS
+-Bootstrap
+-PHP 
 
 ### Features
 1. User can add product
